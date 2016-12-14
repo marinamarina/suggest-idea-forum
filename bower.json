@@ -1,0 +1,20 @@
+{
+  "name": "bbc-morph-suggest-idea-forum1",
+  "main": "index.js",
+  "version": "0.0.0",
+  "homepage": "http://github.com/bbc/morph-modules/tree/master/suggest-idea-forum1",
+  "description": ". ",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "gs-sass-tools": "git@github.com:bbc/gs-sass-tools.git#^4.0.0"
+  }
+}
